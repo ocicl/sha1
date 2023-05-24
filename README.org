@@ -5,5 +5,5 @@ SHA1 Digest and HMAC for Common Lisp
 |---------+---------------------------------------|
 | source  | git:https://github.com/naryl/sha1.git |
 | commit  | bce5465                               |
-| systems | sha1                                  |
+| systems | cl-sha1                               |
 |---------+---------------------------------------|
